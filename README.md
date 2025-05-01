@@ -16,7 +16,8 @@
 
    ### 🎞️ Oto Yol Yardım Gif 
 
-![](public/otokurtarma.mp4)
+📹 [Videoyu izlemek için tıklayın](public/oto-kurtarma.mp4)
+
 
 
    
