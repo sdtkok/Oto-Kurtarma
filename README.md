@@ -1,17 +1,31 @@
-# Oto Yol Yardım
+# 🚧 Oto Yol Yardım Web Sitesi
+# 📄 Proje Hakkında
+OtoYolYardim.com, araç sahiplerinin yolda kaldıklarında hızlı ve güvenilir bir şekilde yardım alabilmesini sağlayan, modern ve kullanıcı dostu bir web platformudur. Web sitesi üzerinden kullanıcılar; çekici çağırabilir, lastik değişimi talebinde bulunabilir, akü takviyesi isteyebilir veya yakıt yardımı alabilirler.
 
-# 
+Sistem, lokasyon temelli çalışma prensibi ile en yakın yol yardım ekibini kullanıcı ile hızlıca buluşturmayı hedeflemektedir.
 
-   Oto yol yardım için hazılanan bu projede kullanıcının yolda kaldığı anda 
-   neye ihtiyaçı o hizmete hemen ulaşabilmesi ve hemen ulaşabilmesi için 
-   en üstte sürekli duran Oto Yol Yardım Hizmetinin telefonu bulunmakta ve 
-   aynı zamanda hızlı birşekilde ulaşabilmesiiçin Whatsapp a yönlendirme yapılarak
-   müşterilerin hızlı etkileşimi ön plamda tutulmuştur.
-   Ayrıca en altta hizmet bölgelerinin 
-   olduğu kısımda müşterinin bulunduğu bölgeye tıklamasıyla direk Whatsapp tan 
-   Oto yol yardım hizmeti sunana kişiye ne kadar sürede 
-   burada olacağını soran bir mesaj atma imkanı sağlanmıştır.
-   Ayrıca Responsive ile her cihaza uyumlu hale getirilmiştir.
+# 🚀 Özellikler
+Konum bazlı yardım çağırma
+
+Hizmet türlerine göre kategorize edilmiş yardım seçenekleri
+
+Mobil cihazlara uyumlu (responsive) tasarım
+
+Bölge bazlı hizmet listesi (dropdown menü ile filtreleme)
+
+Animasyonlu ve kullanımı kolay hamburger menü
+
+SEO uyumlu sayfa yapısı
+
+Hızlı ve sade kullanıcı arayüzü
+
+🛠️ Kullanılan Teknolojiler
+HTML5, CSS3, JavaScript
+
+React.js
+
+React Icons – ikon kullanımı için
+
 
 
    ### 🎞️ Oto Yol Yardım Gif 
