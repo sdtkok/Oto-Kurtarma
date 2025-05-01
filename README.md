@@ -13,6 +13,10 @@
    burada olacağını soran bir mesaj atma imkanı sağlanmıştır.
    Ayrıca Responsive ile her cihaza uyumlu hale getirilmiştir.
 
-   # Oto Yol Yardım Gif 
+
+   ### 🎞️ Oto Yol Yardım Gif 
+
+![](otokurtarma.mp4)
+
 
    
