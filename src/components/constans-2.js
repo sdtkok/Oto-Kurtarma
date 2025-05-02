@@ -26,6 +26,10 @@ export const galeri = [
     { id: 25, url: "araba-25.jpg" },
     { id: 26, url: "araba-26.jpg" },
     { id: 27, url: "araba-27.jpg" },
-    { id: 28, url: "araba-28.jpg" }
+    { id: 28, url: "araba-28.jpg" },
+    { id: 29, url: "araba-29.jpg" },
+    { id: 30, url: "araba-30.jpg" },
+    { id: 31, url: "araba-31.jpg" },
+    { id: 32, url: "araba-32.jpg" }
 
 ];
